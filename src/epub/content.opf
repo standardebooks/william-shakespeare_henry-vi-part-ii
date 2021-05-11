@@ -46,10 +46,10 @@
 		<meta id="collection-1" property="belongs-to-collection">Henry VI</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
-		<dc:description id="description">King Henry VI marries Margaret of Anjou and further stokes discourse within his court.</dc:description>
+		<dc:description id="description">King Henry VI marries Margaret of Anjou and further stokes discord within his court.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Suffolk returns from France bringing the new Queen of England, Margaret of Anjou, and a peace treaty. The Duke of Gloucester discovers that the French forces are allowed to keep the territories of Anjou and Maine in a trade for Margaret; he foresees that England will lose what little control remains over France. Because Gloucester heavily influences King Henry VI’s decisions and is highly respected amongst his peers, he is seen as a major target.&lt;/p&gt;
-			&lt;p&gt;Cardinal Beaufort, Gloucester’s main rival, mentions to Buckingham and Somerset his interest in removing Gloucester. The Duke of York sees Gloucester’s death as an opportunity to grab the English throne for himself. The French are also in favor of removing Gloucester from power. For Queen Margaret and the Duke of Suffolk to manipulate the king and help France Henry’s most loyal advisor must not stand in their way.&lt;/p&gt;
+			&lt;p&gt;Cardinal Beaufort, Gloucester’s main rival, mentions to Buckingham and Somerset his interest in removing Gloucester. The Duke of York sees Gloucester’s death as an opportunity to grab the English throne for himself. The French are also in favor of removing Gloucester from power. For Queen Margaret and the Duke of Suffolk to manipulate the king and help France, Henry’s most loyal advisor must not stand in their way.&lt;/p&gt;
 			&lt;p&gt;This Standard Ebooks production is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
