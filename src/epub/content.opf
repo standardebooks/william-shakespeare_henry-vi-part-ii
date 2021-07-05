@@ -30,6 +30,8 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Henry VI, Part II</dc:title>
 		<meta property="file-as" refines="#title">Henry VI, Part II</meta>
+		<meta property="se:alternate-title" refines="#title">Henry the 6th, Part 2</meta>
+		<meta property="se:alternate-title" refines="#title">Henry the Sixth, Part Two</meta>
 		<dc:subject id="subject-1">Henry VI, King of England, 1421-1471 -- Drama</dc:subject>
 		<dc:subject id="subject-2">Great Britain -- Kings and rulers -- Drama</dc:subject>
 		<dc:subject id="subject-3">Historical drama</dc:subject>
@@ -43,9 +45,12 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="se:subject">Drama</meta>
-		<meta id="collection-1" property="belongs-to-collection">Henry VI</meta>
+		<meta id="collection-1" property="belongs-to-collection">The Henriad</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<meta property="group-position" refines="#collection-1">2</meta>
+		<meta property="group-position" refines="#collection-1">6</meta>
+		<meta id="collection-2" property="belongs-to-collection">Shakespeare’s First Tetralogy</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
+		<meta property="group-position" refines="#collection-2">2</meta>
 		<dc:description id="description">King Henry VI marries Margaret of Anjou and further stokes discord within his court.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Suffolk returns from France bringing the new Queen of England, Margaret of Anjou, and a peace treaty. The Duke of Gloucester discovers that the French forces are allowed to keep the territories of Anjou and Maine in a trade for Margaret; he foresees that England will lose what little control remains over France. Because Gloucester heavily influences King Henry VI’s decisions and is highly respected amongst his peers, he is seen as a major target.&lt;/p&gt;
