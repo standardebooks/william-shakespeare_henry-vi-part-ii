@@ -53,7 +53,7 @@
 		<meta property="group-position" refines="#collection-2">2</meta>
 		<meta id="collection-3" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-3">set</meta>
-		<dc:abstract>King Henry VI marries Margaret of Anjou and further stokes discord within his court.</dc:abstract>
+		<meta property="schema:abstract">King Henry VI marries Margaret of Anjou and further stokes discord within his court.</meta>
 		<dc:description>
 			&lt;p&gt;Suffolk returns from France bringing the new Queen of England, Margaret of Anjou, and a peace treaty. The Duke of Gloucester discovers that the French forces are allowed to keep the territories of Anjou and Maine in a trade for Margaret; he foresees that England will lose what little control remains over France. Because Gloucester heavily influences King Henry VI’s decisions and is highly respected amongst his peers, he is seen as a major target.&lt;/p&gt;
 			&lt;p&gt;Cardinal Beaufort, Gloucester’s main rival, mentions to Buckingham and Somerset his interest in removing Gloucester. The Duke of York sees Gloucester’s death as an opportunity to grab the English throne for himself. The French are also in favor of removing Gloucester from power. For Queen Margaret and the Duke of Suffolk to manipulate the king and help France, Henry’s most loyal advisor must not stand in their way.&lt;/p&gt;
